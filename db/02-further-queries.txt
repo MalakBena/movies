@@ -1,0 +1,33 @@
+You are now connected to database "nc_flix" as user "northcoders".
+
+ 1. Here are the number of films in stock for each genre:
+ genre_name | number_in_stock 
+------------+-----------------
+ drama      |               7
+ fantasy    |               3
+ action     |              16
+ crime      |              10
+ family     |               4
+ comedy     |               8
+ sci_fi     |              17
+(7 rows)
+
+
+ 2. Here is the average rating for films in stock in Newcastle:
+ average_rating_newcastle 
+--------------------------
+                      6.6
+(1 row)
+
+
+ 3. Here are all the films made in 90s with above average rating:
+
+ 4. Here is the number of copies of the top rated film of the 5 most recently released films we have in stock across all stores:
+
+ 5. These are the locations where our customers live which dont have stores:
+
+ 6. These are all the locations which our business has influence over
+
+ 7a. This store has the highest quantity of stock:
+
+ 7b. ...and this is the most abundant genre in that store:
